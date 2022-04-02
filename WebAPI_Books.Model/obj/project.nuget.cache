@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "do2D+WCEH1krr6vh28XQSpMuULieFmBIMbBOjMog7AKZGReTw/4YFZhUrh/dMwng4E8AIv2Ic9bui2maTd9Gvw==",
+  "success": true,
+  "projectFilePath": "F:\\Proyects\\C#\\WebAPI_Books\\WebAPI_Books.Model\\WebAPI_Books.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josue Medina\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Josue Medina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

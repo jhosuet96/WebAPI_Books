@@ -1,0 +1,10 @@
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\bin\Debug\netcoreapp3.1\WebAPI_Books.Model.deps.json
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\bin\Debug\netcoreapp3.1\WebAPI_Books.Model.dll
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\bin\Debug\netcoreapp3.1\WebAPI_Books.Model.pdb
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.csproj.AssemblyReference.cache
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.AssemblyInfoInputs.cache
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.AssemblyInfo.cs
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.csproj.CoreCompileInputs.cache
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.dll
+F:\Proyects\C#\WebAPI_Books\WebAPI_Books.Model\obj\Debug\netcoreapp3.1\WebAPI_Books.Model.pdb
